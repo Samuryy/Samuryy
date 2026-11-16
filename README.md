@@ -1,16 +1,38 @@
-## Hi there 👋
+# Assalomu alaykum! 👋
 
-<!--
-**Samuryy/Samuryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Men haqimda
 
-Here are some ideas to get you started:
+- **Ism:** Shahbozbek
+- **Familiya:** Nasriddinov
+- **Yosh:** 14
+- **Viloyat:** Farg'ona
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mening qiziqishlarim
+
+1. Dasturlash
+2. Kompyuter texnologiyalari
+3. Ingliz tilini o'rganish
+
+## Men o'rganayotgan texnologiyalar
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## Mening maqsadim 🎯
+
+Kelajakda kuchli dasturchi bo'lish,
+o'z loyihalarimni yaratish va
+yurtimiz rivojiga hissa qo'shish.
+
+## Sevimli iqtibosim
+
+> Buyuk ishlar kichik qadamlardan boshlanadi!
+
+---
+
+**Loyiha:** Al-Xorazmiy Vorislari
+
+**Muallif:** Shahbozbek N
